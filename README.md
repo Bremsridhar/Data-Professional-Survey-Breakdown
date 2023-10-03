@@ -1,6 +1,7 @@
 # Data-Professional-Survey-Breakdown
 
 In this tutorial, we will walk through the process of creating a data visualization dashboard using Power BI. First, we'll start by importing the survey data into Power BI, ensuring it's in a usable format. Next, we'll clean the data, addressing issues like missing values and inconsistent formats to prepare it for visualization.
+![Screenshot 2023-09-30 212804](https://github.com/Bremsridhar/Data-Professional-Survey-Breakdown/assets/110837365/a413efbc-85cf-415f-b83d-5cf6ac5888a2)
 
 Moving on, we'll tackle transforming the data, such as converting numeric values to text for better visualization. To do this, we'll create a duplicate column and split it based on digit-to-non-digit patterns. This ensures we have usable data for our dashboard.
 
